@@ -1,12 +1,12 @@
 ## Oi, eu sou a Ana Giulia. 👋
 
-- 🎒 Cursando Engenharia de Software.
+- 🎒 Cursando 1° Semestre em Engenharia de Software.
 - 😄 Pronomes: ela/dela ou ele/dele.
 
 <div align="center">
   <a href="https://github.com/anagiulias">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anagiulias&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anagiulias&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anagiulias&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 </div>
