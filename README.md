@@ -1,6 +1,6 @@
 ## Oi, eu sou a Ana Giulia. 👋
 
-- 🎒 Cursando 1° Semestre em Engenharia de Software.
+- 🎒 Cursando 2° Semestre em Engenharia de Software.
 - 😄 Pronomes: ela/dela ou ele/dele.
 
 <div align="center">
