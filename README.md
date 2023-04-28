@@ -1,8 +1,8 @@
 ## Oi, eu sou a Ana Giulia. 👋
 
 - 🎒 Cursando 2° Semestre em Engenharia de Software.
-- 😄 Pronomes: ela/dela ou ele/dele.
-- 🎨 Hobby: digital artist.
+- 😄 Pronomes: Ela/dela ou ele/dele.
+- 🎨 Hobby: Digital artist.
 
 <div align="center">
   <a href="https://github.com/anagiulias">
@@ -11,9 +11,14 @@
 </div>
 
 ## Estou aprendendo
+<p align="">
+  <img src="https://media.tenor.com/Ug6cbVA1ZsMAAAAd/developer.gif" width="250">
+</p>
+
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 </div>
 
   ##
