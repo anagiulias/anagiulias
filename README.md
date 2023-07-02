@@ -1,6 +1,6 @@
 ## Oi, eu sou a Ana Giulia. 👋
 
-- 🎒 Cursando 2° Semestre em Engenharia de Software.
+- 🎒 Cursando 3° Semestre em Engenharia de Software.
 - 😄 Pronomes: Ela/dela ou ele/dele.
 - 🎨 Hobby: Digital artist.
 
