@@ -1,9 +1,5 @@
 ## Oi, eu sou a Ana Giulia. 👋
 
-- 🎒 Cursando 3° Semestre em Engenharia de Software.
-- 😄 Pronomes: Ela/dela ou ele/dele.
-- 🎨 Hobby: Digital artist.
-
 <div align="center">
   <a href="https://github.com/anagiulias">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anagiulias&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
